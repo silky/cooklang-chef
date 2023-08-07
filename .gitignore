@@ -5,3 +5,6 @@ target/
 thoughts.md
 .vscode/launch.json
 seed/
+
+.direnv/
+result*
